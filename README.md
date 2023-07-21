@@ -1,5 +1,13 @@
 # Projeto de Implementação do mapstruct
-# IDE - Spring Tool Suite 4 
-# Banco de Dados: PostgreSQL 
 
-## Projeto Desenvolvido em Java testando novo java17
+# Recursos:
+## Mapstruct, Loombok, Flyway, JPA, 
+
+# IDE:
+## Spring Tool Suite 4
+
+# Banco de Dados: 
+## PostgreSQL
+
+# Java: 
+## java17
