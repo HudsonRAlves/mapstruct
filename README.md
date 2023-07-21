@@ -1,13 +1,13 @@
 # Projeto de Implementação do mapstruct
 
 # Recursos:
-## Mapstruct, Loombok, Flyway, JPA, 
+Mapstruct, [Loombok](https://projectlombok.org/download) , Flyway, JPA 
 
 # IDE:
-## Spring Tool Suite 4
+Spring Tool Suite 4
 
 # Banco de Dados: 
-## PostgreSQL
+PostgreSQL
 
 # Java: 
-## java17
+java17
